@@ -7,7 +7,7 @@ tags: ["studio pro", "module settings", "module", "add-on", "solution"]
 ---
 
 {{% alert color="warning" %}}
-Access to this functionality is currently limited and can be gained through the [Mendix Component Partner Program](/appstore/creating-content/partner-program/) and the [Mendix Commercial Solution Partner Program](https://www.mendix.com/partners/become-a-partner/isv-program/).
+This functionality is now Generally Available in [Mendix 10](https://docs.mendix.com/refguide/module-settings/#3-export). The preview functionality in Mendix 9 is not available anymore.
 {{% /alert %}}
 
 ## 1 Introduction
